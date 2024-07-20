@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pendidikan Bahasa",
+    "tags": ["Bahasa", "Pendidikan", "Mata Kuliah"],
+    "jadwal": "08.00-10.00",
+    "isNew": true
+  },
+  {
+    "title": "Teknoprenos",
+    "tags": ["Teknologi", "Wirausaha", "UMKM"],
+    "jadwal": "06.00-08.00",
+    "isNew": false
+  },
+  {
+    "title": "Keperawatan",
+    "tags": ["Kesehatan", "Perawat", "Ners"],
+    "jadwal": "06.00-08.00",
+    "isNew": false
+  }
+]
